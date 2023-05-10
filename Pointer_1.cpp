@@ -8,6 +8,7 @@ public:
     int nim;
     void showNim();
 };
+coid mahasiswa::showNim(){}
 
 int main()
 {
